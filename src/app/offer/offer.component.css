@@ -1,0 +1,41 @@
+/* You can add global styles to this file, and also import other style files */
+.content {
+    margin: 0 4rem 4rem 4rem;
+    padding-top: 2rem;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .content input {
+    height: 2rem;
+  }
+
+  .content select {
+    width: 15rem;
+    height: 2rem;
+  }
+
+  .content label {
+ 
+    margin-left: 5rem;
+    width: 6rem;
+  }
+  .right{
+    margin-bottom: 2rem;
+  }
+  .right label{
+    margin: 0 1.8rem 2rem 24.5rem;
+  }
+  .w3-card-4{
+    height: 25rem;
+  }
+ 
+
+  .w3-table th {
+    border: 1px solid gray;
+  }
+  .w3-table td {
+    border: 1px solid gray;
+  }
+
+  
